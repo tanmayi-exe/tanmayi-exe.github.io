@@ -1,0 +1,27 @@
+.datPinkColor {
+	background-color: #e94242 !important;
+}
+
+#jumbotron {
+	background-color: black;
+}
+
+#firstProgressBar {
+	background-color: darkgrey; 
+	width: 80%;
+}
+
+#secondProgressBar {
+	background-color: darkgrey; 
+	width: 57%;
+}
+
+#footer {
+	background-color: black; 
+	height: 100px; 
+	padding: 50px;
+}
+
+.main{
+	height: 130px;
+}
